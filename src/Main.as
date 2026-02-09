@@ -14,7 +14,7 @@ void Main() {
     string pageName;
 
     while (true) {
-        sleep(500);
+        sleep(100);
 
         if (false
             or Network.ClientManiaAppPlayground is null
